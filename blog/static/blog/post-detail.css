@@ -174,7 +174,7 @@ main {
   border-radius: 6px;
 }
 
-#comments {
+#comments, #comment-form {
   margin: 3rem auto;
   width: 90%;
   max-width: 60rem;
